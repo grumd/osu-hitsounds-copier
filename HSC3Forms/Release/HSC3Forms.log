@@ -1,0 +1,13 @@
+﻿Build started 27.03.2016 1:10:53.
+     1>Project "D:\coding\HSC3\HSC3Forms\HSC3Forms\HSC3Forms.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         D:\programs\visual studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\coding\HSC3\HSC3Forms\Release\HSC3Forms.exe" /INCREMENTAL:NO /NOLOGO /ASSEMBLYRESOURCE:Release\HSC3Forms.MyForm.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\coding\HSC3\HSC3Forms\Release\HSC3Forms.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /SAFESEH Release\hitsounds.obj
+         Release\main.obj
+         Release\MyForm.obj
+         "Release\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         HSC3Forms.vcxproj -> D:\coding\HSC3\HSC3Forms\Release\HSC3Forms.exe
+     1>Done Building Project "D:\coding\HSC3\HSC3Forms\HSC3Forms\HSC3Forms.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.70

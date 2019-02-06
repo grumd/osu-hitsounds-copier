@@ -1,0 +1,18 @@
+﻿Build started 27.03.2016 1:10:08.
+     1>Project "D:\coding\HSC3\HSC3Forms\HSC3Forms\HSC3Forms.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\programs\visual studio\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib MyForm.cpp main.cpp
+         MyForm.cpp
+         main.cpp
+         Generating Code...
+       Link:
+         D:\programs\visual studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\coding\HSC3\HSC3Forms\Debug\HSC3Forms.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\HSC3Forms.MyForm.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\coding\HSC3\HSC3Forms\Debug\HSC3Forms.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\hitsounds.obj
+         Debug\main.obj
+         Debug\MyForm.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         HSC3Forms.vcxproj -> D:\coding\HSC3\HSC3Forms\Debug\HSC3Forms.exe
+     1>Done Building Project "D:\coding\HSC3\HSC3Forms\HSC3Forms\HSC3Forms.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.60
